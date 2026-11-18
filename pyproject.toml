@@ -7,7 +7,7 @@ name = "diyanet-mcp"
 version = "0.1.0"
 description = "Unofficial read-only MCP server for Diyanet prayer times (Turkey) — official timetable for 81 provinces and districts, monthly tables, qibla"
 readme = "README.md"
-license = { text = "MIT" }
+license = { text = "PolyForm-Noncommercial-1.0.0" }
 requires-python = ">=3.10"
 dependencies = [
     "mcp<2",
